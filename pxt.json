@@ -3,8 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "MakerEdu_Hardware": "github:makereduvn/MKE_ONE_MICROBIT#2988c801d44896f7e18ba253333d907c186ce331"
     },
     "files": [
         "main.blocks",
