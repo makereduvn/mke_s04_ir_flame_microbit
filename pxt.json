@@ -1,5 +1,6 @@
 {
     "name": "mke_s04_ir_flame_microbit",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
